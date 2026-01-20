@@ -31,7 +31,7 @@
 
 /* Header Section */
 #header {
-  background-image: url('images/bg_image.png'); 
+  background-image: url('../images/bg_image.png'); 
   background-size: cover;
   background-position: center;
   padding: 6rem 2rem;
@@ -97,7 +97,8 @@
 }
 
 #web-dev {
-  background: linear-gradient(135deg, #2033b2, #0d6efd);
+  background: linear-gradient(135deg); /* blue gradient */
+  
 }
 
 #web-dev h2 {
