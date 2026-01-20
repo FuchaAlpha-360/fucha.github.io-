@@ -1,0 +1,21 @@
+.contents h2 {
+  text-align: center;
+  margin: 1rem 0;
+  font-size: 2em;
+  color: #2033b2;
+  padding-top: 3em;
+}
+
+.contents p {
+  font-size: 1.2em;
+  color: #333;
+  text-align: center;
+  padding-top:1em;
+}
+
+.skills-list {
+    font-size: 1.2em;
+    color: #333;
+    padding-top: 1em;
+    list-style-type: square;
+}
